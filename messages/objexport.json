@@ -1,0 +1,8 @@
+{
+  "commandDescription": "Export a list of objects in your org",
+  "outputFlagDescription": "Output file (or directory if --split) (default object-schema.yaml)",
+  "filterFlagDescription": "Filter to only export objects matching the provided string",
+  "splitFlagDescription": "Split output into individual files per object",
+  "forceFlagDescription": "Force overwriting the file",
+  "errorNoOrgResults": "No results found for the org '%s'."
+}
